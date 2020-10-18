@@ -40,6 +40,17 @@ database.exe
 *You can find the information which will be saved in database.txt file.
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/duttabhishek32/Mini-DataBase/issues) 
+### <div align="center">STEPS:-</div>
+### 1. Go to https://github.com/duttabhishek32/Mini-DataBase fork the whole repo.(It's very easy, just follow the steps)
+  (<a href="https://ibb.co/3T0vL8X"><img src="https://i.ibb.co/yN8pbMT/Screenshot-from-2020-10-18-09-57-30.jpg" alt="Screenshot-from-2020-10-18-09-57-30" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />)
+<br></br>
+### 2. Now click on the "*Issues*"  and see which issues you can work on.
+<a href="https://ibb.co/4Tt9HK3"><img src="https://i.ibb.co/DCWsZzT/Screenshot-from-2020-10-18-10-04-53.jpg" alt="Screenshot-from-2020-10-18-10-04-53" border="0"></a>
+### 3.Open the "*database.cpp*" file and then click on the edit button and then do the changes.
+<a href="https://ibb.co/3CNkthx"><img src="https://i.ibb.co/hmWCp8G/Screenshot-from-2020-10-18-10-07-32.jpg" alt="Screenshot-from-2020-10-18-10-07-32" border="0"></a>
+### 4.Click on the "*Commit changes *", and then click on the "*Create Pull Request*"  button.
+<a href="https://ibb.co/XjhyQVQ"><img src="https://i.ibb.co/bQSH070/Screenshot-from-2020-10-18-10-11-01.jpg" alt="Screenshot-from-2020-10-18-10-11-01" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a><br />
+### 5. I will then reveiw the PR(Pull Request) and if I found it to be correct I will merge it in main.
 
 ### Unimplemented Features:
 * Table Management
