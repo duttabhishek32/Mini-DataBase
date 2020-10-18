@@ -12,7 +12,7 @@
 //Show a particular people in the database.txt
 //Search for people in the database
 //Delete a person from the database
-//Modifications are open.
+//Modifications are opn.
 
 //Created by Abhishek Dutt  on 26 JUNE 2020,10:56am
 
