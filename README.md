@@ -49,7 +49,7 @@ database.exe
 ### 3.Open the "*database.cpp*" file and then click on the edit button and then do the changes.
 <a href="https://ibb.co/3CNkthx"><img src="https://i.ibb.co/hmWCp8G/Screenshot-from-2020-10-18-10-07-32.jpg" alt="Screenshot-from-2020-10-18-10-07-32" border="0"></a>
 ### 4.Click on the "*Commit changes *", and then click on the "*Create Pull Request*"  button.
-<a href="https://ibb.co/XjhyQVQ"><img src="https://i.ibb.co/bQSH070/Screenshot-from-2020-10-18-10-11-01.jpg" alt="Screenshot-from-2020-10-18-10-11-01" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a><br />
+<a href="https://ibb.co/XjhyQVQ"><img src="https://i.ibb.co/bQSH070/Screenshot-from-2020-10-18-10-11-01.jpg" alt="Screenshot-from-2020-10-18-10-11-01" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 ### 5. I will then reveiw the PR(Pull Request) and if I found it to be correct I will merge it in main.
 
 ### Unimplemented Features:
