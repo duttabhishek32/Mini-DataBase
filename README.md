@@ -1,6 +1,6 @@
 # Mini-DataBase
 [![HitCount](http://hits.dwyl.com/duttabhishek32/Mini-DataBase.svg)](http://hits.dwyl.com/duttabhishek32/Mini-DataBase)
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/duttabhishek32/Mini-DataBase/issues)
+
 Mini-DataBase is a simplified data base, written in C++.It is made for the purpose of understanding the underlying details of File Management in OOP with C++.
 
 # Functionality:
@@ -38,6 +38,9 @@ gcc database.cpp -o database.exe
 database.exe
 ```
 *You can find the information which will be saved in database.txt file.
+
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/duttabhishek32/Mini-DataBase/issues) 
+
 ### Unimplemented Features:
 * Table Management
 * Data Manipulation(Change the phone number of an existing member)
