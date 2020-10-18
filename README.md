@@ -1,4 +1,5 @@
 # Mini-DataBase
+[![HitCount](http://hits.dwyl.com/duttabhishek32/Mini-DataBase.svg)](http://hits.dwyl.com/duttabhishek32/Mini-DataBase)
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/duttabhishek32/Mini-DataBase/issues)
 Mini-DataBase is a simplified data base, written in C++.It is made for the purpose of understanding the underlying details of File Management in OOP with C++.
 
