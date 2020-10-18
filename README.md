@@ -35,6 +35,7 @@ For Command Prompt(Windows)
 gcc database.cpp -o database.exe
 database.exe
 ```
+*You can find the information which will be saved in database.txt file.
 ### Unimplemented Features:
 * Table Management
 * Data Manipulation(Change the phone number of an existing member)
