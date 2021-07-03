@@ -1,7 +1,7 @@
-# Mini-DataBase
+# Contact List
 [![HitCount](http://hits.dwyl.com/duttabhishek32/Mini-DataBase.svg)](http://hits.dwyl.com/duttabhishek32/Mini-DataBase)
 
-Mini-DataBase is a simplified data base, written in C++.It is made for the purpose of understanding the underlying details of File Management in OOP with C++.
+Contact List is simply a program to store user details, written in C++.It is made for the purpose of understanding the underlying details of File Management in OOP with C++. 
 
 # Functionality:
 1. Add a member
